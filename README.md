@@ -8,3 +8,7 @@ I gained minor coding experience in my bachelors degree but chose to focus more 
 i. Reach a senior/manager position at my current job (Environmental Defense Fund)
 ii. Become a Director of Marketing, Director of Digital Media, or Product Manager at my organization or another company.
 iii. Start my own organization or company.
+ Markup : 1. A numbered list
+              1. A nested numbered list
+              2. Which is numbered
+          2. Which is numbered
