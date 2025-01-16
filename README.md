@@ -1,5 +1,5 @@
 # My First Coding Assignment
-![Big chilling in FL] (https://github.com/m1crckt/m1-hw1-king-ian/blob/main/F8A0FDBD-6996-4B3F-BE3A-0EF8E321FE73.JPG)
+![Big chilling in FL] (https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSwtMLM_JR7i0A62xFIlivzQxhfbDD22NrTuIq-4aeUk7TS_6KJ)
 ## About Me
 My name is Ian King and I currently reside in Tampa, FL where I was born and raised. I graduated from the University of Florida in 2022 with a bachelor of arts in Digital Arts & Sciences. At the moment, I work remotely as a digital content specialist (or, web producer) at Environmental Defense Fund. I enjoy running, watching movies, reading books, and making music in my free time!
 ## Past Coding Experience
